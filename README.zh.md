@@ -17,4 +17,4 @@ REBRAND 的信息..(translate)
 # 图片
 ![Change Name](change_name_v.png)
 
-![Change CLAWD](chang_clawd.png)
+![Change CLAWD](chnage_clawd.png)
