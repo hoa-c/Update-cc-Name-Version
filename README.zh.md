@@ -15,5 +15,6 @@ REBRAND 是一个..(translate)
 REBRAND 的信息..(translate)
 
 # 图片
-![image1](path/to/image1)
-![image2](path/to/image2)
+![Change Name](change_name_v.png)
+
+![Change CLAWD](chang_clawd.png)
