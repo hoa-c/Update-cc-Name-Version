@@ -17,7 +17,8 @@ Details related to the rebranding process.
 Below are the important images related to the changes:
 
 ![Change Name](change_name_v.png)
-![Change CLAWD](change_clawd.png)
+
+![Change CLAWD](chang_clawd.png)
 
 ## Current Date and Time
 This document is generated on 2026-04-01 09:21:02 (UTC).
